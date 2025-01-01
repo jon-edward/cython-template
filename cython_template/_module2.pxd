@@ -1,0 +1,1 @@
+cpdef int custom_function2(int x)
